@@ -3,6 +3,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using aspnetapp;
+using aspnetapp.Models;
 using Microsoft.Extensions.Hosting;
 
 class Program
